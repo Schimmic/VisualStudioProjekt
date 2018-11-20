@@ -1,0 +1,5 @@
+C:\Users\simon\source\repos\VerbindungZuHana\VerbindungZuHana\bin\Debug\VerbindungZuHana.pdb
+C:\Users\simon\source\repos\VerbindungZuHana\VerbindungZuHana\obj\Debug\VerbindungZuHana.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\VerbindungZuHana\VerbindungZuHana\obj\Debug\VerbindungZuHana.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\VerbindungZuHana\VerbindungZuHana\obj\Debug\VerbindungZuHana.dll
+C:\Users\simon\source\repos\VerbindungZuHana\VerbindungZuHana\obj\Debug\VerbindungZuHana.pdb

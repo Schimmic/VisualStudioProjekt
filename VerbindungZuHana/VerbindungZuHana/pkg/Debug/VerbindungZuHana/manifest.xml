@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="20211fae-024e-4ec8-afa7-ba08ef0b9198" SharePointProductVersion="16.0">
+  <FeatureManifests>
+    <FeatureManifest Location="VerbindungZuHana_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

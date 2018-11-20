@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="20211fae-024e-4ec8-afa7-ba08ef0b9198" 
+        solutionId="20211fae-024e-4ec8-afa7-ba08ef0b9198" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="VerbindungZuHana"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="7ba65b92-e046-4cb0-9c74-f92504ee3ced" />
+  </features>
+</package>
